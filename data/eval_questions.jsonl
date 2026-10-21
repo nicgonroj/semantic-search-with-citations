@@ -1,0 +1,42 @@
+{"id": "Q01", "question": "¿Hasta qué monto puedo aceptar un regalo de un proveedor?", "expected": ["POL-001 §3"]}
+{"id": "Q02", "question": "¿Puedo hacer una denuncia sin identificarme?", "expected": ["POL-001 §4"]}
+{"id": "Q03", "question": "¿En qué plazo tengo que declarar un conflicto de interés?", "expected": ["POL-001 §2"]}
+{"id": "Q04", "question": "¿Cuánto tiempo guardamos los datos personales de los clientes después de terminar la relación?", "expected": ["POL-003 §2"]}
+{"id": "Q05", "question": "Detecté una filtración de datos personales, ¿a quién aviso y en cuánto tiempo?", "expected": ["POL-003 §4"]}
+{"id": "Q06", "question": "¿Cuántos caracteres debe tener una contraseña?", "expected": ["POL-004 §2"]}
+{"id": "Q07", "question": "¿Puedo volar en clase ejecutiva en un viaje de trabajo?", "expected": ["POL-005 §2"]}
+{"id": "Q08", "question": "¿De cuánto es el viático diario en un viaje nacional?", "expected": ["POL-005 §3"]}
+{"id": "Q09", "question": "¿Cuántos días a la semana puedo trabajar desde mi casa?", "expected": ["POL-006 §2"]}
+{"id": "Q10", "question": "¿Cuántas cotizaciones necesito para una compra de 300 UF?", "expected": ["POL-007 §1"]}
+{"id": "Q11", "question": "¿Quién tiene que firmar un compromiso de 3.000 UF?", "expected": ["POL-008 §1"]}
+{"id": "Q12", "question": "¿Por cuántos años se guardan los contratos terminados?", "expected": ["POL-009 §1"]}
+{"id": "Q13", "question": "¿Qué hago si un competidor me pregunta por nuestros precios en una reunión?", "expected": ["POL-010 §1"]}
+{"id": "Q14", "question": "¿Puedo cargar un contrato vigente en una herramienta pública de IA?", "expected": ["POL-011 §2"]}
+{"id": "Q15", "question": "¿Cuánto demora la investigación de una denuncia de acoso?", "expected": ["POL-012 §2"]}
+{"id": "Q16", "question": "¿Cuándo se paga el bono anual?", "expected": ["POL-013 §3"]}
+{"id": "Q17", "question": "¿Con cuánta anticipación debo pedir mis vacaciones?", "expected": ["POL-014 §1"]}
+{"id": "Q18", "question": "¿Se puede pagar a un funcionario para agilizar un trámite?", "expected": ["POL-015 §2"]}
+{"id": "Q19", "question": "Un periodista me llamó para pedirme una entrevista, ¿qué hago?", "expected": ["POL-016 §1"]}
+{"id": "Q20", "question": "¿Qué contratos debe revisar Legal antes de firmarlos?", "expected": ["POL-017 §1", "PRO-001 §3"]}
+{"id": "Q21", "question": "¿Con cuánta anticipación avisa el sistema que un contrato va a vencer?", "expected": ["POL-017 §3"]}
+{"id": "Q22", "question": "¿En qué plazo se le paga la factura a un proveedor de servicios?", "expected": ["CON-001 §2"]}
+{"id": "Q23", "question": "¿Cuánto dura la obligación de confidencialidad de un NDA?", "expected": ["CON-002 §2"]}
+{"id": "Q24", "question": "¿En cuánto tiempo debe responder el soporte del software ante un incidente crítico?", "expected": ["CON-004 §2"]}
+{"id": "Q25", "question": "¿Un encargado de tratamiento de datos puede subcontratar a otra empresa?", "expected": ["CON-005 §2"]}
+{"id": "Q26", "question": "¿Cuál es el seguro mínimo que debe tener el transportista?", "expected": ["CON-008 §2"]}
+{"id": "Q27", "question": "¿Por cuánto tiempo no podemos contratar al personal del consultor?", "expected": ["CON-010 §3"]}
+{"id": "Q28", "question": "¿Cuánto se demora Legal en revisar un contrato?", "expected": ["PRO-001 §1", "PRO-001 §2"]}
+{"id": "Q29", "question": "Me llegó una demanda, ¿qué debo hacer?", "expected": ["PRO-007 §1"]}
+{"id": "Q30", "question": "¿En cuánto tiempo hay que responder el reclamo de un cliente?", "expected": ["PRO-003 §2"]}
+{"id": "Q31", "question": "¿Cuánto tiempo hay para notificar a la autoridad un incidente de ciberseguridad?", "expected": ["PRO-004 §3"]}
+{"id": "Q32", "question": "¿Cuál es el tiempo máximo de recuperación de los sistemas críticos ante un desastre?", "expected": ["PRO-010 §3"]}
+{"id": "Q33", "question": "¿Se pueden traer mascotas a la oficina?", "expected": []}
+{"id": "Q34", "question": "¿Cuánto aporta la empresa al seguro complementario de salud?", "expected": []}
+{"id": "Q35", "question": "¿Aceptamos pagos de clientes en criptomonedas?", "expected": []}
+{"id": "Q36", "question": "¿Cuál es el procedimiento para importar sustancias peligrosas por vía marítima?", "expected": []}
+{"id": "Q37", "question": "¿Qué empresa hace la auditoría externa de los estados financieros?", "expected": []}
+{"id": "Q38", "question": "¿Cuál es el horario de atención del casino?", "expected": []}
+{"id": "Q39", "question": "¿Cuántos días de postnatal adicional entrega la empresa?", "expected": []}
+{"id": "Q40", "question": "¿Qué garantía tienen los productos vendidos a consumidores finales?", "expected": []}
+{"id": "Q41", "question": "¿Se puede estacionar en el edificio corporativo los fines de semana?", "expected": []}
+{"id": "Q42", "question": "¿Cuál es el sueldo de los practicantes?", "expected": []}

@@ -1,0 +1,11 @@
+[project]
+name = "semantic-search-with-citations"
+version = "0.1.0"
+description = "Búsqueda semántica sobre documentos legales con respuestas citadas, verificación de fuentes y abstención"
+requires-python = ">=3.10"
+authors = [{ name = "Nicolás González Rojas" }]
+license = { text = "MIT" }
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
